@@ -1,5 +1,6 @@
 <script>
 	import Header from './Header.svelte';
+	import Counter from './Counter.svelte';
 	import './styles.css';
 </script>
 

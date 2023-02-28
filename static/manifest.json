@@ -1,0 +1,11 @@
+{
+	"short_name": "isitlit-pwa",
+	"name": "isitlit-pwa",
+	"start_url": "/",
+	"icons": [],
+	"background_color": "#3367D6",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#3367D6",
+	"description": "Is It Lit app"
+}
